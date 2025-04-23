@@ -1,1 +1,1 @@
-Carrossel de fotos (automático e manual) simples com HTML, CSS e um pouco de JavaScript.
+Carrossel de fotos (automático e manual) simples do meu gato com HTML, CSS e um pouco de JavaScript.
