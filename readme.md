@@ -1,0 +1,1 @@
+Carrossel de fotos (automático e manual) simples com HTML, CSS e um pouco de JavaScript.
